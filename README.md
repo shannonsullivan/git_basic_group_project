@@ -1,5 +1,5 @@
 # Pull Request Exercise
-
+### Instructions
 1. Clone this project
 2. Create a branch; call it "firstname-lastname"
 3. Run the code, find the bug, and fix it
