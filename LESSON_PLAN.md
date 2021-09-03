@@ -70,9 +70,9 @@ cd into it
 
 ### Part 2: Pull Requests
 - create github repo called "pull_request"
-- Have all students pull the repo and create a branch
+- Have all students [pull the bd_git_basics_intro_to_git repo](https://github.com/LambdaSchool/bd_git_basics_intro_to_git) and create a branch locally 
 - Have everyone run the project (simple addition) and notice that the values do not add together (they subtract)
-- have each student fix the code, commit, and push their changes up. Then have them create a PR.
+- Have each student fix the code, commit, and push their changes up. Then have them create a PR.
 - Find two solution that create a merge conflict (if none, make yourself)
 - show that you can edit in GitHub
   - `git fetch`
