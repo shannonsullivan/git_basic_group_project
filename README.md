@@ -1,4 +1,4 @@
-#Pull Reqeust Excercise
+#Pull Request Exercise
 
 1. Clone this project
 2. Create a branch; call it "firstname-lastname"
